@@ -1,5 +1,7 @@
-
 # 🛡️ Information Security Tools
+
+## Objective
+Explore tools used in information security (Footprinting, Firewalls, Antivirus Software, Public Key Infrastructure (PKI) services, Managed Detection and Response (MDR) services, etc.) .
 
 ## 1. 🔍 Footprinting: Recon-ng
 
